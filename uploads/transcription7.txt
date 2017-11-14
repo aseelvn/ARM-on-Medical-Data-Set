@@ -1,0 +1,29 @@
+MEDICAL REPORT 
+ 
+SOLICITOR'S REF ACC/123/987 
+INSTRUCTIONS FROM Joe Bloggs Solicitors 
+CLIENT'S NAME  Scott
+ADDRESS   Moong Street, Chicago
+DOB : 01 March 1965 
+ 
+ 
+DATE OF REPORT  15 April 2010  
+REVIEW OF NOTES None 
+IDENTIFICATION  None 
+OCCUPATION  Unemployed 
+ 
+
+CURRENT MEDICAL CONDITION
+	Hypoglycemia
+	Asthma
+
+CURRENT SYMPTOMS
+
+PAST MEDICAL HISTORY 
+	Intussusception
+
+PRESENT MEDICATIONS 
+	Azithromycin
+	Citrizine
+	Paracetamol
+	

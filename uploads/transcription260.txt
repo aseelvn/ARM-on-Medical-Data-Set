@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/252/987
+CLIENT'S NAME Amina Aylward
+ADDRESS 596 North Thomas Ave. ,Mississippi
+DOB: 15 June 1994
+DATE OF REPORT 21 July 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Leukemia
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Amoxicillin
+       Nexium

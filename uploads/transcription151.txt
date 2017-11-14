@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/143/987
+CLIENT'S NAME Dennise Dowdle
+ADDRESS Vienna, VA 22180,Louisiana
+DOB: 21 May 1983
+DATE OF REPORT 20 February 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Chickenpox
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Lisinoprin
+       Prilosec

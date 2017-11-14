@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/37/987
+CLIENT'S NAME Bella Bay
+ADDRESS 9280  Hanover Rd. ,Oklahoma
+DOB: 19 November 1979
+DATE OF REPORT 15 May 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Diabetis
+PAST MEDICAL HISTORY
+       Chickenpox
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Amoxicillin
+       Azithromycin

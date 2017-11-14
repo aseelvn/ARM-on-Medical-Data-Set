@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/25/987
+CLIENT'S NAME Karl Kleinman
+ADDRESS 489 Beaver Ridge Street ,Tennessee
+DOB: 21 November 1999
+DATE OF REPORT 16 July 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Chickenpox
+PAST MEDICAL HISTORY
+       Diabetis
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Singulair
+       Paracetamol

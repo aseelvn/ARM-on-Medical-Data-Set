@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/47/987
+CLIENT'S NAME Amira Atilano
+ADDRESS Vienna, VA 22180,Landforms
+DOB: 32 June 1985
+DATE OF REPORT 16 August 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Leukemia
+PAST MEDICAL HISTORY
+       Leukemia
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Singulair
+       Epogen

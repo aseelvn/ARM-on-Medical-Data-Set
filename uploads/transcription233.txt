@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/225/987
+CLIENT'S NAME Dot Dela
+ADDRESS 65 Gulf St. ,Missouri
+DOB: 15 March 1991
+DATE OF REPORT 11 May 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Typhoid
+PAST MEDICAL HISTORY
+       Arthritis
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Actos
+       Azithromycin

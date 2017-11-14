@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/60/987
+CLIENT'S NAME Tasia Timmer
+ADDRESS 984 Beechwood St. ,Massachusetts
+DOB: 02 August 1991
+DATE OF REPORT 02 March 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Typhoid
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Paracetamol
+       Epogen

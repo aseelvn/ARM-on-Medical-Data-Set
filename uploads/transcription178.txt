@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/170/987
+CLIENT'S NAME William Windle
+ADDRESS 7496 Ivy Court ,Mississippi
+DOB: 17 February 1985
+DATE OF REPORT 20 January 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Alzheimers
+PAST MEDICAL HISTORY
+       Hypertension
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Prilosec
+       Amoxicillin

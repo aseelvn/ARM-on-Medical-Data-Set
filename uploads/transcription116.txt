@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/108/987
+CLIENT'S NAME Michael Mcmanus
+ADDRESS 697 Tallwood Dr. ,Minnesota
+DOB: 02 April 1979
+DATE OF REPORT 21 March 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Diabetis
+PAST MEDICAL HISTORY
+       Dysentery
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Epogen
+       Epogen

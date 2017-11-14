@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/67/987
+CLIENT'S NAME Brenda Bodily
+ADDRESS 9870 Marsh Lane ,Arizona
+DOB: 22 February 2001
+DATE OF REPORT 16 November 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Diabetis
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Actos
+       Lisinoprin
+       Hydrocodone

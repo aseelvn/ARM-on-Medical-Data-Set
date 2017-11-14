@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/285/987
+CLIENT'S NAME Simon Stearman
+ADDRESS 337 Rosewood Dr. ,Alaska
+DOB: 02 July 1983
+DATE OF REPORT 17 July 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Alzheimers
+PAST MEDICAL HISTORY
+       Typhoid
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Nexium
+       Singulair

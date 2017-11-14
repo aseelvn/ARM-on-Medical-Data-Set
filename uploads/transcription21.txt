@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/13/987
+CLIENT'S NAME Shandra Shipp
+ADDRESS 62 S. Linda Ave. ,Minnesota
+DOB: 22 November 1999
+DATE OF REPORT 18 April 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Malaria
+PAST MEDICAL HISTORY
+       Alzheimers
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Hidrochlorothiazide
+       Hydrocodone

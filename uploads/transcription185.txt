@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/177/987
+CLIENT'S NAME Elizabet Eatman
+ADDRESS Bangor, ME 04401,District of Columbia
+DOB: 16 January 1991
+DATE OF REPORT 02 July 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Malaria
+PAST MEDICAL HISTORY
+       Malaria
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Epogen
+       Prilosec

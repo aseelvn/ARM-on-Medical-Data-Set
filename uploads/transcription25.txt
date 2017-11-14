@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/17/987
+CLIENT'S NAME Marcene Minix
+ADDRESS 26 Sierra Ave. ,Alabama
+DOB: 16 August 2001
+DATE OF REPORT 20 December 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Hypertension
+PAST MEDICAL HISTORY
+       Alzheimers
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Azithromycin
+       Prilosec

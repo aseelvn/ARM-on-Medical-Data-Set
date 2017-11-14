@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/287/987
+CLIENT'S NAME Sook Samet
+ADDRESS 9483 Marshall Ave. ,New Jersey
+DOB: 02 January 2001
+DATE OF REPORT 18 April 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Hypertension
+PAST MEDICAL HISTORY
+       Dysentery
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Lipitor
+       Epogen

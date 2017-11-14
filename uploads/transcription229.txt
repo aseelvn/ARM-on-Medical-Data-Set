@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/221/987
+CLIENT'S NAME Wally Winstead
+ADDRESS Rego Park, NY 11374,Mississippi
+DOB: 22 January 1994
+DATE OF REPORT 22 April 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Alzheimers
+PAST MEDICAL HISTORY
+       Insomnia
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Actos
+       Hidrochlorothiazide

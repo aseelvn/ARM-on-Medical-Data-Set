@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/140/987
+CLIENT'S NAME Sidney Swisher
+ADDRESS 9115 Crescent St. ,Louisiana
+DOB: 19 April 1994
+DATE OF REPORT 02 April 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Leukemia
+PAST MEDICAL HISTORY
+       Arthritis
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Amoxicillin
+       Lisinoprin

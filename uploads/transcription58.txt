@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/50/987
+CLIENT'S NAME Winter Whitchurch
+ADDRESS 22 Hickory Street ,Alaska
+DOB: 11 May 1983
+DATE OF REPORT 17 March 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Arthritis
+PAST MEDICAL HISTORY
+       Chickenpox
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Singulair
+       Hydrocodone

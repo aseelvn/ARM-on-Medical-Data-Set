@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/88/987
+CLIENT'S NAME Tasia Timmer
+ADDRESS 81 Manor Station  ,Connecticut
+DOB: 32 March 1999
+DATE OF REPORT 32 November 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Arthritis
+PAST MEDICAL HISTORY
+       Insomnia
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Amoxicillin
+       Paracetamol

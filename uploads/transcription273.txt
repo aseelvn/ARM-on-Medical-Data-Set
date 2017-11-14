@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/265/987
+CLIENT'S NAME Melia Mowrer
+ADDRESS Lanham, MD 20706,Pennsylvania
+DOB: 19 November 1985
+DATE OF REPORT 32 August 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Leukemia
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Lipitor
+       Prilosec

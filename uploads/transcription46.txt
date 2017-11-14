@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/38/987
+CLIENT'S NAME Carl Crofts
+ADDRESS Mundelein, IL 60060,Alabama
+DOB: 15 December 1990
+DATE OF REPORT 18 February 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Chickenpox
+PAST MEDICAL HISTORY
+       Leukemia
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Hidrochlorothiazide
+       Lipitor

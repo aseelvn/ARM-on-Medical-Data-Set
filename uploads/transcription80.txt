@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/72/987
+CLIENT'S NAME Grisel Gaeth
+ADDRESS 7745 Ann St. ,Connecticut
+DOB: 02 August 1999
+DATE OF REPORT 22 April 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Dysentery
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Prilosec
+       Azithromycin

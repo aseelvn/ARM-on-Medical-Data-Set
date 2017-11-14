@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/42/987
+CLIENT'S NAME Annita Angelo
+ADDRESS 258 Meadow St. ,Indiana
+DOB: 02 August 1979
+DATE OF REPORT 18 March 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Arthritis
+PAST MEDICAL HISTORY
+       Insomnia
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Azithromycin
+       Amoxicillin

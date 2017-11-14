@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/109/987
+CLIENT'S NAME Drema Dombroski
+ADDRESS 653 Main Ave. ,Wyoming
+DOB: 02 January 1991
+DATE OF REPORT 19 December 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Lipitor
+       Lipitor

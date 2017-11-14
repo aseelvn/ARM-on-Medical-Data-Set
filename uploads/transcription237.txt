@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/229/987
+CLIENT'S NAME Cherrie Canas
+ADDRESS 181 Sycamore Street ,Arizona
+DOB: 21 November 1990
+DATE OF REPORT 11 August 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Arthritis
+PAST MEDICAL HISTORY
+       Hypertension
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Lisinoprin
+       Singulair

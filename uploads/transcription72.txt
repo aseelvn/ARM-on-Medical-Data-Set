@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/64/987
+CLIENT'S NAME Dulce Donohoe
+ADDRESS 921 Birch Hill Street ,Indiana
+DOB: 15 March 1999
+DATE OF REPORT 02 April 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Arthritis
+PAST MEDICAL HISTORY
+       Insomnia
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Epogen
+       Hydrocodone

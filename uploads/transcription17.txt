@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/9/987
+CLIENT'S NAME Doyle Delcastillo
+ADDRESS Butte, MT 59701,Wyoming
+DOB: 02 November 2001
+DATE OF REPORT 17 March 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Arthritis
+PAST MEDICAL HISTORY
+       Insomnia
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Nexium
+       Paracetamol

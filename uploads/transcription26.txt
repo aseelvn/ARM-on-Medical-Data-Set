@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/18/987
+CLIENT'S NAME Simon Stearman
+ADDRESS 9890 Green Lake Drive ,New York
+DOB: 02 January 1991
+DATE OF REPORT 19 April 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Arthritis
+PAST MEDICAL HISTORY
+       Alzheimers
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Prilosec
+       Epogen

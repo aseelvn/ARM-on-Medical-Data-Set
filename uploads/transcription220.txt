@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/212/987
+CLIENT'S NAME Zenaida Zander
+ADDRESS Beckley, WV 25801,Florida
+DOB: 17 April 1990
+DATE OF REPORT 19 January 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Paracetamol
+       Singulair

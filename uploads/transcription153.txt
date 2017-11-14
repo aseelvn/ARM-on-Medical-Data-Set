@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/145/987
+CLIENT'S NAME Chanelle Cuyler
+ADDRESS 76 Chestnut St. ,Maine
+DOB: 20 July 1995
+DATE OF REPORT 17 January 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Dysentery
+PAST MEDICAL HISTORY
+       Leukemia
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Hydrocodone
+       Paracetamol

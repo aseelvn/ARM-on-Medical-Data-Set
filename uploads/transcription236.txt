@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/228/987
+CLIENT'S NAME Zoraida Zepeda
+ADDRESS Williamsport, PA 17701,Michigan
+DOB: 20 February 1999
+DATE OF REPORT 02 March 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Diabetis
+PAST MEDICAL HISTORY
+       Malaria
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Prilosec
+       Lipitor

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/141/987
+CLIENT'S NAME Yasmine Yaple
+ADDRESS Decatur, GA 30030,Texas
+DOB: 11 April 1979
+DATE OF REPORT 20 May 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Malaria
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Azithromycin
+       Epogen

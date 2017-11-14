@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/41/987
+CLIENT'S NAME Clarence Colpitts
+ADDRESS 7496 Ivy Court ,New York
+DOB: 32 August 1994
+DATE OF REPORT 20 February 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Diabetis
+PAST MEDICAL HISTORY
+       Typhoid
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Hidrochlorothiazide
+       Lipitor

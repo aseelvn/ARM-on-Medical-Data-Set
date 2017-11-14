@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/119/987
+CLIENT'S NAME Annita Angelo
+ADDRESS 9 S. Evergreen Drive ,Pennsylvania
+DOB: 21 July 1999
+DATE OF REPORT 17 December 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Typhoid
+PAST MEDICAL HISTORY
+       Chickenpox
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Nexium
+       Actos

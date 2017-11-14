@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/20/987
+CLIENT'S NAME Kyoko Kaczynski
+ADDRESS Eastlake, OH 44095,Oregon
+DOB: 02 July 1985
+DATE OF REPORT 02 August 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Hypertension
+PAST MEDICAL HISTORY
+       Leukemia
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Lisinoprin
+       Amoxicillin

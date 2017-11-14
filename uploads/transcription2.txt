@@ -1,0 +1,28 @@
+MEDICAL REPORT 
+SOLICITOR'S REF ACC/133/989
+INSTRUCTIONS FROM Joe Bloggs Solicitors 
+CLIENT'S NAME  James
+ADDRESS   52nd street, homesway, las vegas
+DOB : 01 March 1968
+ 
+ 
+DATE OF REPORT  15 April 2010  
+REVIEW OF NOTES None 
+IDENTIFICATION  None 
+OCCUPATION  employed 
+ 
+CURRENT MEDICAL CONDITIONS
+	Mucormycosis
+	Hydroxyapatite
+
+PRESENT SYMPTOMS
+sachin
+PAST MEDICAL HISTORY 
+	Asthma
+	Impetigo
+
+PRESENT MEDICATIONS 
+	Aspirin
+	Citrizine
+	Paracetamol
+	 

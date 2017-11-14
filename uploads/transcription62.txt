@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/54/987
+CLIENT'S NAME Genevieve Gayman
+ADDRESS 65 Gulf St. ,Illinois
+DOB: 02 July 1979
+DATE OF REPORT 22 July 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Arthritis
+PAST MEDICAL HISTORY
+       Hypertension
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Amoxicillin
+       Actos

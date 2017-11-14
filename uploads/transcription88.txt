@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/80/987
+CLIENT'S NAME Jonnie Justus
+ADDRESS Prairie, WI 53590,North Carolina
+DOB: 17 July 2001
+DATE OF REPORT 22 July 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Hypertension
+PAST MEDICAL HISTORY
+       Leukemia
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Azithromycin
+       Hydrocodone

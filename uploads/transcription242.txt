@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/234/987
+CLIENT'S NAME Ora Oyer
+ADDRESS Sunnyside, NY 11104,Kansas
+DOB: 20 May 1979
+DATE OF REPORT 21 December 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Leukemia
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Actos
+       Paracetamol
+       Prilosec

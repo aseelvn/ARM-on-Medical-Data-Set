@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/94/987
+CLIENT'S NAME Sylvia Salters
+ADDRESS Levittown, NY 11756,Oregon
+DOB: 11 January 1985
+DATE OF REPORT 11 June 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Diabetis
+PAST MEDICAL HISTORY
+       Typhoid
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Nexium
+       Azithromycin

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/137/987
+CLIENT'S NAME Cody Charbonneau
+ADDRESS Loganville, GA 30052,Illinois
+DOB: 32 August 1985
+DATE OF REPORT 16 June 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Arthritis
+PAST MEDICAL HISTORY
+       Alzheimers
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Paracetamol
+       Epogen

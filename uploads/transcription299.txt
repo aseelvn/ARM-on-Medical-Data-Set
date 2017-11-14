@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/291/987
+CLIENT'S NAME Marcos Mcnary
+ADDRESS Hernando, MS 38632,Massachusetts
+DOB: 02 June 1990
+DATE OF REPORT 02 May 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Leukemia
+PAST MEDICAL HISTORY
+       Typhoid
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Prilosec
+       Nexium

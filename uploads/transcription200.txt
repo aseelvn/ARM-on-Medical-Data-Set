@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/192/987
+CLIENT'S NAME Charis Caldera
+ADDRESS Sunnyside, NY 11104,Pennsylvania
+DOB: 17 December 1990
+DATE OF REPORT 17 December 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Singulair
+       Lisinoprin

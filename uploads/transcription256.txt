@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/248/987
+CLIENT'S NAME Lashandra Lockhart
+ADDRESS Somerset, NJ 08873,Connecticut
+DOB: 02 July 1994
+DATE OF REPORT 17 November 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Malaria
+PAST MEDICAL HISTORY
+       Diabetis
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Nexium
+       Hydrocodone

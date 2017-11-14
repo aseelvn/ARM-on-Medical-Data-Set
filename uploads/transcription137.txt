@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/129/987
+CLIENT'S NAME Luanne Linson
+ADDRESS 9606 Olive  ,Utah
+DOB: 18 January 1991
+DATE OF REPORT 19 May 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Hypertension
+PAST MEDICAL HISTORY
+       Malaria
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Paracetamol
+       Azithromycin

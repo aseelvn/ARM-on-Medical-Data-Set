@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/121/987
+CLIENT'S NAME Jacque Jarnigan
+ADDRESS Pearl, MS 39208,Michigan
+DOB: 22 November 2001
+DATE OF REPORT 17 April 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Typhoid
+PAST MEDICAL HISTORY
+       Dysentery
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Amoxicillin
+       Hidrochlorothiazide

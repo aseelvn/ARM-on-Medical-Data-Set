@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/164/987
+CLIENT'S NAME Tamisha Tibbets
+ADDRESS Nashville, TN 37205,Wisconsin
+DOB: 02 March 1995
+DATE OF REPORT 32 July 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Leukemia
+PAST MEDICAL HISTORY
+       Alzheimers
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Prilosec
+       Lisinoprin

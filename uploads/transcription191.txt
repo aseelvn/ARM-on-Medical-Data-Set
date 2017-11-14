@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/183/987
+CLIENT'S NAME Phyliss Pharr
+ADDRESS Indiana, PA 15701,Oklahoma
+DOB: 02 November 1994
+DATE OF REPORT 17 February 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Dysentery
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Actos
+       Epogen

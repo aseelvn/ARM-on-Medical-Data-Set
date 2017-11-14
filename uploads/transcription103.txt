@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/95/987
+CLIENT'S NAME Sherril Schindler
+ADDRESS 799 Swanson St. ,New Jersey
+DOB: 11 August 1985
+DATE OF REPORT 15 December 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Arthritis
+PAST MEDICAL HISTORY
+       Typhoid
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Amoxicillin
+       Singulair

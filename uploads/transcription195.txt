@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/187/987
+CLIENT'S NAME Dann Deloatch
+ADDRESS Coatesville, PA 19320,Utah
+DOB: 20 November 1999
+DATE OF REPORT 17 August 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Arthritis
+PAST MEDICAL HISTORY
+       Dysentery
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Amoxicillin
+       Hidrochlorothiazide

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/266/987
+CLIENT'S NAME Clementine Craw
+ADDRESS Peabody, MA 01960,North Carolina
+DOB: 18 April 1979
+DATE OF REPORT 11 June 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Malaria
+PAST MEDICAL HISTORY
+       Insomnia
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Prilosec
+       Nexium

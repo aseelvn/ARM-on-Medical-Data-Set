@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/227/987
+CLIENT'S NAME Barabara Bjornstad
+ADDRESS 181 Sycamore Street ,Kansas
+DOB: 32 July 2001
+DATE OF REPORT 20 August 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Typhoid
+PAST MEDICAL HISTORY
+       Insomnia
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Epogen
+       Amoxicillin

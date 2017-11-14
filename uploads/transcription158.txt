@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/150/987
+CLIENT'S NAME Shelly Soderstrom
+ADDRESS 11 Hall Street ,New Hampshire
+DOB: 02 April 1995
+DATE OF REPORT 19 April 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Chickenpox
+PAST MEDICAL HISTORY
+       Malaria
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Actos
+       Paracetamol
+       Paracetamol

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/276/987
+CLIENT'S NAME Eve Espino
+ADDRESS 9241 Strawberry Lane ,Florida
+DOB: 32 January 1979
+DATE OF REPORT 02 January 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Leukemia
+PAST MEDICAL HISTORY
+       Hypertension
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Epogen
+       Prilosec

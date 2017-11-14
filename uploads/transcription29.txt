@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/21/987
+CLIENT'S NAME Jolene Jowers
+ADDRESS 799 Swanson St. ,Wisconsin
+DOB: 21 December 2001
+DATE OF REPORT 11 January 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Hypertension
+PAST MEDICAL HISTORY
+       Alzheimers
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Azithromycin
+       Nexium

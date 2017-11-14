@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/235/987
+CLIENT'S NAME Danial Damato
+ADDRESS Saint Louis, MO 63109,Landforms
+DOB: 32 November 1994
+DATE OF REPORT 21 January 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Hypertension
+PAST MEDICAL HISTORY
+       Insomnia
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Paracetamol
+       Hydrocodone

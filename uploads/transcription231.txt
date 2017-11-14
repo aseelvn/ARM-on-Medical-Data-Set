@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/223/987
+CLIENT'S NAME Maude Mundt
+ADDRESS Pearl, MS 39208,Wisconsin
+DOB: 32 December 1985
+DATE OF REPORT 16 June 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Malaria
+PAST MEDICAL HISTORY
+       Dysentery
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Hidrochlorothiazide
+       Nexium

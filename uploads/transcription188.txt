@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/180/987
+CLIENT'S NAME Veronique Vollmer
+ADDRESS Levittown, NY 11756,Political units
+DOB: 19 December 1979
+DATE OF REPORT 17 November 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Dysentery
+PAST MEDICAL HISTORY
+       Alzheimers
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Epogen
+       Hidrochlorothiazide

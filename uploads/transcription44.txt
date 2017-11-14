@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/36/987
+CLIENT'S NAME Kayce Kauffman
+ADDRESS 9280  Hanover Rd. ,California
+DOB: 22 July 2001
+DATE OF REPORT 20 December 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Insomnia
+PAST MEDICAL HISTORY
+       Typhoid
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Epogen
+       Amoxicillin

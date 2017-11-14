@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/251/987
+CLIENT'S NAME Willy Whittington
+ADDRESS Middleton, WI 53562,Maine
+DOB: 22 May 1990
+DATE OF REPORT 02 December 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Chickenpox
+PAST MEDICAL HISTORY
+       Leukemia
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Amoxicillin
+       Hydrocodone

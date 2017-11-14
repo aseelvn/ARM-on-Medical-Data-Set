@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/256/987
+CLIENT'S NAME Hollis Hitchens
+ADDRESS Neenah, WI 54956,Texas
+DOB: 18 July 1994
+DATE OF REPORT 15 May 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Malaria
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Singulair
+       Actos

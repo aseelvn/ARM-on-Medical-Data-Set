@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/215/987
+CLIENT'S NAME Eli Epling
+ADDRESS 596 North Thomas Ave. ,Massachusetts
+DOB: 17 August 1979
+DATE OF REPORT 11 July 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Malaria
+PAST MEDICAL HISTORY
+       Diabetis
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Lipitor
+       Lipitor

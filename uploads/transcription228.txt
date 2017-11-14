@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/220/987
+CLIENT'S NAME Karey Kinsella
+ADDRESS Somerset, NJ 08873,Rhode Island
+DOB: 02 June 2001
+DATE OF REPORT 02 April 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Diabetis
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Lisinoprin
+       Prilosec

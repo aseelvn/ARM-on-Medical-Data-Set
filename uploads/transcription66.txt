@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/58/987
+CLIENT'S NAME Monique Mahabir
+ADDRESS Anderson, SC 29621,Idaho
+DOB: 02 June 1994
+DATE OF REPORT 15 March 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Chickenpox
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Paracetamol
+       Nexium

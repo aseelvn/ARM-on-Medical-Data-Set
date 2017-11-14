@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/201/987
+CLIENT'S NAME Marcelle Mirelez
+ADDRESS Kent, OH 44240,Alaska
+DOB: 21 March 1994
+DATE OF REPORT 02 May 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Alzheimers
+PAST MEDICAL HISTORY
+       Typhoid
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Nexium
+       Nexium

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/160/987
+CLIENT'S NAME Ariane Aigner
+ADDRESS 542 Oxford Street ,Kansas
+DOB: 18 July 1991
+DATE OF REPORT 18 May 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Dysentery
+PAST MEDICAL HISTORY
+       Chickenpox
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Lisinoprin
+       Amoxicillin

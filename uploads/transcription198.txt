@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/190/987
+CLIENT'S NAME Stephanie Stabler
+ADDRESS Bridgeport, CT 06606,Missouri
+DOB: 18 November 1983
+DATE OF REPORT 16 January 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Alzheimers
+PAST MEDICAL HISTORY
+       Diabetis
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Actos
+       Nexium
+       Epogen

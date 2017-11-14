@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/91/987
+CLIENT'S NAME Sybil Skiles
+ADDRESS Yorktown Heights, NY 10598,Texas
+DOB: 20 February 1990
+DATE OF REPORT 21 April 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Typhoid
+PAST MEDICAL HISTORY
+       Arthritis
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Lipitor
+       Lisinoprin

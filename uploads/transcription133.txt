@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/125/987
+CLIENT'S NAME Carly Conger
+ADDRESS Brooklyn, NY 11201,Tennessee
+DOB: 17 April 1999
+DATE OF REPORT 21 April 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Typhoid
+PAST MEDICAL HISTORY
+       Insomnia
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Lisinoprin
+       Hydrocodone

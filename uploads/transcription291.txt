@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/283/987
+CLIENT'S NAME Candelaria Carreira
+ADDRESS 54 South Pulaski Lane ,Rhode Island
+DOB: 15 February 1983
+DATE OF REPORT 19 December 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Malaria
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Azithromycin
+       Hidrochlorothiazide

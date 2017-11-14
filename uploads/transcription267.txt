@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/259/987
+CLIENT'S NAME Reginald Raybon
+ADDRESS Yorktown Heights, NY 10598,Michigan
+DOB: 17 March 1990
+DATE OF REPORT 16 December 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Alzheimers
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Paracetamol
+       Amoxicillin

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/222/987
+CLIENT'S NAME Earleen Ellingson
+ADDRESS East Lansing, MI 48823,Utah
+DOB: 02 April 1990
+DATE OF REPORT 11 November 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Malaria
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Lipitor
+       Prilosec

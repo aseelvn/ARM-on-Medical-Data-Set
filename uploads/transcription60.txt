@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/52/987
+CLIENT'S NAME Kyoko Kaczynski
+ADDRESS Peachtree City, GA 30269,New York
+DOB: 21 April 1990
+DATE OF REPORT 16 April 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Leukemia
+PAST MEDICAL HISTORY
+       Leukemia
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Actos
+       Lipitor
+       Nexium

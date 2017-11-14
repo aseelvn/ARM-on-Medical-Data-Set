@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/89/987
+CLIENT'S NAME Lani Lareau
+ADDRESS 667 Gartner Street ,Texas
+DOB: 22 November 1990
+DATE OF REPORT 17 March 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Malaria
+PAST MEDICAL HISTORY
+       Arthritis
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Prilosec
+       Nexium

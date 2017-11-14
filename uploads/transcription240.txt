@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/232/987
+CLIENT'S NAME Dennise Dowdle
+ADDRESS 701 Snake Hill St. ,New York
+DOB: 02 December 1995
+DATE OF REPORT 11 July 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Alzheimers
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Nexium
+       Prilosec

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/53/987
+CLIENT'S NAME Mose Mckoy
+ADDRESS 698 Mountainview St. ,Alabama
+DOB: 11 February 1995
+DATE OF REPORT 20 July 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Insomnia
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Amoxicillin
+       Singulair

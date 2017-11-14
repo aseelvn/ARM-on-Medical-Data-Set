@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/191/987
+CLIENT'S NAME Phyliss Pharr
+ADDRESS Indiana, PA 15701,Michigan
+DOB: 15 June 1991
+DATE OF REPORT 32 August 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Typhoid
+PAST MEDICAL HISTORY
+       Arthritis
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Lisinoprin
+       Amoxicillin

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/4/987
+CLIENT'S NAME Wiley Warne
+ADDRESS Mount Airy, MD 21771,Vermont
+DOB: 32 November 1983
+DATE OF REPORT 17 May 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Leukemia
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Hydrocodone
+       Paracetamol

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/96/987
+CLIENT'S NAME Casimira Carman
+ADDRESS Detroit, MI 48205,Utah
+DOB: 17 March 1999
+DATE OF REPORT 02 May 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Diabetis
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Prilosec
+       Hydrocodone

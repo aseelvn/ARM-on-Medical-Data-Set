@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/120/987
+CLIENT'S NAME Karl Kleinman
+ADDRESS 92 North Cedarwood Ave. ,Indiana
+DOB: 21 January 1995
+DATE OF REPORT 21 July 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Dysentery
+PAST MEDICAL HISTORY
+       Typhoid
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Paracetamol
+       Azithromycin

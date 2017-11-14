@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/280/987
+CLIENT'S NAME Dann Deloatch
+ADDRESS 935 High Point Street ,New York
+DOB: 18 December 1995
+DATE OF REPORT 02 December 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Arthritis
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Lisinoprin
+       Amoxicillin

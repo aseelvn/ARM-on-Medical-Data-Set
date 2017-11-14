@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/85/987
+CLIENT'S NAME Shakira Sutton
+ADDRESS 364 Somerset Court ,Vermont
+DOB: 15 November 1985
+DATE OF REPORT 22 November 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Insomnia
+PAST MEDICAL HISTORY
+       Diabetis
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Prilosec
+       Nexium

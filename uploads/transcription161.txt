@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/153/987
+CLIENT'S NAME Isaias Ingham
+ADDRESS Somerset, NJ 08873,New Hampshire
+DOB: 20 May 1983
+DATE OF REPORT 22 January 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Chickenpox
+PAST MEDICAL HISTORY
+       Diabetis
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Paracetamol
+       Nexium

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/277/987
+CLIENT'S NAME Sook Samet
+ADDRESS Lafayette, IN 47905,Minnesota
+DOB: 19 March 1999
+DATE OF REPORT 21 July 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Typhoid
+PAST MEDICAL HISTORY
+       Hypertension
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Lisinoprin
+       Lipitor

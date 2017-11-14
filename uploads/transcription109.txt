@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/101/987
+CLIENT'S NAME Queen Quast
+ADDRESS 62 S. Linda Ave. ,New Jersey
+DOB: 22 December 1994
+DATE OF REPORT 20 July 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Leukemia
+PAST MEDICAL HISTORY
+       Malaria
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Lipitor
+       Actos

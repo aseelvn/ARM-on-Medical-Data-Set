@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/19/987
+CLIENT'S NAME Luanna Loveridge
+ADDRESS 59 Sherwood Ave. ,Kansas
+DOB: 19 April 1999
+DATE OF REPORT 02 February 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Paracetamol
+       Epogen

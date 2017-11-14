@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/165/987
+CLIENT'S NAME Barabara Bjornstad
+ADDRESS 935 High Point Street ,Maine
+DOB: 11 May 1983
+DATE OF REPORT 20 November 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Dysentery
+PAST MEDICAL HISTORY
+       Malaria
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Hidrochlorothiazide
+       Azithromycin

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/56/987
+CLIENT'S NAME Kayce Kauffman
+ADDRESS 313 Sussex Dr. ,Kansas
+DOB: 21 July 1994
+DATE OF REPORT 02 December 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Chickenpox
+PAST MEDICAL HISTORY
+       Hypertension
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Hidrochlorothiazide
+       Prilosec

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/84/987
+CLIENT'S NAME Jim Jehle
+ADDRESS 917 Heritage St. ,Massachusetts
+DOB: 19 June 1990
+DATE OF REPORT 16 August 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Alzheimers
+PAST MEDICAL HISTORY
+       Hypertension
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Epogen
+       Nexium

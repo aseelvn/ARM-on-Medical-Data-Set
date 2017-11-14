@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/151/987
+CLIENT'S NAME Elizbeth Everly
+ADDRESS Menasha, WI 54952,Illinois
+DOB: 32 January 1990
+DATE OF REPORT 19 July 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Arthritis
+PAST MEDICAL HISTORY
+       Alzheimers
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Azithromycin
+       Lipitor

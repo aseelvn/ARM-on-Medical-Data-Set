@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/35/987
+CLIENT'S NAME Jim Jehle
+ADDRESS 26 Sierra Ave. ,Arizona
+DOB: 02 July 1983
+DATE OF REPORT 18 February 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Typhoid
+PAST MEDICAL HISTORY
+       Alzheimers
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Epogen
+       Singulair

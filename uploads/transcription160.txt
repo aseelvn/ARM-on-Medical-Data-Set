@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/152/987
+CLIENT'S NAME Franklyn Frisch
+ADDRESS Waterford, MI 48329,Michigan
+DOB: 18 December 1994
+DATE OF REPORT 22 December 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Diabetis
+PAST MEDICAL HISTORY
+       Typhoid
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Prilosec
+       Hidrochlorothiazide

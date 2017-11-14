@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/154/987
+CLIENT'S NAME Alejandrina Athey
+ADDRESS 76 Chestnut St. ,Water bodies
+DOB: 18 May 1994
+DATE OF REPORT 18 June 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Hypertension
+PAST MEDICAL HISTORY
+       Alzheimers
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Lisinoprin
+       Amoxicillin

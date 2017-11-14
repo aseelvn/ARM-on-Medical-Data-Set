@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/179/987
+CLIENT'S NAME George Guilbert
+ADDRESS 9772 Snake Hill Lane ,Illinois
+DOB: 20 December 1999
+DATE OF REPORT 11 January 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Dysentery
+PAST MEDICAL HISTORY
+       Hypertension
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Hidrochlorothiazide
+       Hydrocodone

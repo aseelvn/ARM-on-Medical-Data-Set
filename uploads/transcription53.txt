@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/45/987
+CLIENT'S NAME Anisa Allee
+ADDRESS 73 Mill Pond Rd. ,District of Columbia
+DOB: 19 April 1999
+DATE OF REPORT 22 April 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Insomnia
+PAST MEDICAL HISTORY
+       Typhoid
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Paracetamol
+       Singulair

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/207/987
+CLIENT'S NAME Kelsey Kuchera
+ADDRESS 582 North Penn St. ,Maine
+DOB: 18 December 1990
+DATE OF REPORT 15 December 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Arthritis
+PAST MEDICAL HISTORY
+       Diabetis
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Singulair
+       Hidrochlorothiazide

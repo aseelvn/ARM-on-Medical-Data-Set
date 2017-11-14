@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/142/987
+CLIENT'S NAME Aiko Arndt
+ADDRESS Nashville, TN 37205,Water bodies
+DOB: 22 February 1999
+DATE OF REPORT 16 November 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Hypertension
+PAST MEDICAL HISTORY
+       Malaria
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Actos
+       Epogen

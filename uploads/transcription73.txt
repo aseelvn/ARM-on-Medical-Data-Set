@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/65/987
+CLIENT'S NAME Dennise Dowdle
+ADDRESS Quincy, MA 02169,Vermont
+DOB: 18 January 1995
+DATE OF REPORT 21 June 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Malaria
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Actos
+       Actos
+       Actos

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/146/987
+CLIENT'S NAME Clarence Colpitts
+ADDRESS 7774 Lancaster St. ,New Jersey
+DOB: 02 March 1983
+DATE OF REPORT 17 May 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Malaria
+PAST MEDICAL HISTORY
+       Typhoid
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Azithromycin
+       Paracetamol

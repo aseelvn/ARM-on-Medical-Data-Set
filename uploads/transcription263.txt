@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/255/987
+CLIENT'S NAME Casimira Carman
+ADDRESS 77 Marshall St. ,Wisconsin
+DOB: 02 August 1990
+DATE OF REPORT 16 December 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Leukemia
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Lisinoprin
+       Paracetamol

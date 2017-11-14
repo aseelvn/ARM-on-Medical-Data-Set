@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/71/987
+CLIENT'S NAME Zenaida Zander
+ADDRESS Lakeville, MN 55044,Massachusetts
+DOB: 16 December 1999
+DATE OF REPORT 17 March 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Hypertension
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Prilosec
+       Lipitor

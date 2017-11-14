@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/200/987
+CLIENT'S NAME Shandra Shipp
+ADDRESS 7666 George Ave. ,New Hampshire
+DOB: 19 June 1983
+DATE OF REPORT 19 June 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Dysentery
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Lisinoprin
+       Hydrocodone

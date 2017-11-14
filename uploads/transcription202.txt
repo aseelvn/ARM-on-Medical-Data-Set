@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/194/987
+CLIENT'S NAME Calandra Clevenger
+ADDRESS 22 Hickory Street ,Alaska
+DOB: 20 July 1985
+DATE OF REPORT 15 December 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Malaria
+PAST MEDICAL HISTORY
+       Diabetis
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Azithromycin
+       Lisinoprin

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/278/987
+CLIENT'S NAME Queen Quast
+ADDRESS South Plainfield, NJ 07080,Indiana
+DOB: 21 April 1991
+DATE OF REPORT 32 April 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Hypertension
+PAST MEDICAL HISTORY
+       Insomnia
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Hidrochlorothiazide
+       Singulair

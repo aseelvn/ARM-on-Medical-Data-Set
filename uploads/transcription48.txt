@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/40/987
+CLIENT'S NAME Percy Procopio
+ADDRESS 29 Clay Street ,Vermont
+DOB: 20 June 1983
+DATE OF REPORT 20 July 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Arthritis
+PAST MEDICAL HISTORY
+       Hypertension
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Lipitor
+       Singulair

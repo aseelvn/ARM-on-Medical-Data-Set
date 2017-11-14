@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/172/987
+CLIENT'S NAME Letty Lashua
+ADDRESS Hudsonville, MI 49426,Illinois
+DOB: 15 April 2001
+DATE OF REPORT 16 June 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Leukemia
+PAST MEDICAL HISTORY
+       Hypertension
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Amoxicillin
+       Epogen

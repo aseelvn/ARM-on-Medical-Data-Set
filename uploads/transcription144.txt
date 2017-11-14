@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/136/987
+CLIENT'S NAME Oda Orme
+ADDRESS Hamden, CT 06514,Kansas
+DOB: 19 March 2001
+DATE OF REPORT 16 August 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Alzheimers
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Actos
+       Amoxicillin

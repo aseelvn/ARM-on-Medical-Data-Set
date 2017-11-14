@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/31/987
+CLIENT'S NAME Ernestine Ettinger
+ADDRESS 60 Kirkland St. ,Washington
+DOB: 15 August 1994
+DATE OF REPORT 11 July 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Chickenpox
+PAST MEDICAL HISTORY
+       Chickenpox
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Hydrocodone
+       Paracetamol

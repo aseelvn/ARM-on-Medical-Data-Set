@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/87/987
+CLIENT'S NAME Bunny Bendixen
+ADDRESS 639 Hilltop  ,Washington
+DOB: 22 May 2001
+DATE OF REPORT 22 December 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Insomnia
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Singulair
+       Lipitor

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/263/987
+CLIENT'S NAME Grisel Gaeth
+ADDRESS 575 South Brook Street ,Virginia
+DOB: 21 June 2001
+DATE OF REPORT 22 June 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Chickenpox
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Hydrocodone
+       Azithromycin

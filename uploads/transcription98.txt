@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/90/987
+CLIENT'S NAME Grisel Gaeth
+ADDRESS 54 South Pulaski Lane ,Kansas
+DOB: 21 August 1999
+DATE OF REPORT 22 June 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Insomnia
+PAST MEDICAL HISTORY
+       Insomnia
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Nexium
+       Singulair

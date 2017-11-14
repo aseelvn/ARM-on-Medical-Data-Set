@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/82/987
+CLIENT'S NAME Johnie Jim
+ADDRESS Williamsport, PA 17701,Virginia
+DOB: 18 April 1995
+DATE OF REPORT 22 December 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Arthritis
+PAST MEDICAL HISTORY
+       Dysentery
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Azithromycin
+       Lisinoprin

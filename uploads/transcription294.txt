@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/286/987
+CLIENT'S NAME Merle Mickley
+ADDRESS 7306 Birchpond Lane ,Tennessee
+DOB: 19 December 1994
+DATE OF REPORT 18 June 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Typhoid
+PAST MEDICAL HISTORY
+       Malaria
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Azithromycin
+       Lipitor

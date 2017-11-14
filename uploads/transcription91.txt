@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/83/987
+CLIENT'S NAME Marci Mix
+ADDRESS 364 Somerset Court ,California
+DOB: 22 December 1999
+DATE OF REPORT 21 July 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Dysentery
+PAST MEDICAL HISTORY
+       Arthritis
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Hydrocodone
+       Hydrocodone

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/66/987
+CLIENT'S NAME Bettie Bollman
+ADDRESS Sunnyside, NY 11104,Michigan
+DOB: 11 May 1994
+DATE OF REPORT 16 March 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Alzheimers
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Paracetamol
+       Azithromycin

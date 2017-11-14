@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/168/987
+CLIENT'S NAME Ivan Ingham
+ADDRESS 463 Annadale Drive ,Pennsylvania
+DOB: 16 March 1985
+DATE OF REPORT 02 February 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Alzheimers
+PAST MEDICAL HISTORY
+       Leukemia
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Nexium
+       Hydrocodone

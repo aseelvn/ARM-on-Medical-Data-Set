@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/204/987
+CLIENT'S NAME Lavina Lopresti
+ADDRESS 9975 Gates Drive ,Indiana
+DOB: 02 June 1999
+DATE OF REPORT 02 November 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Alzheimers
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Prilosec
+       Epogen

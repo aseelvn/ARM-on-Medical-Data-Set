@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/15/987
+CLIENT'S NAME Cordelia Cates
+ADDRESS Bloomington, IN 47401,Alaska
+DOB: 02 February 1995
+DATE OF REPORT 15 April 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Alzheimers
+PAST MEDICAL HISTORY
+       Hypertension
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Actos
+       Azithromycin

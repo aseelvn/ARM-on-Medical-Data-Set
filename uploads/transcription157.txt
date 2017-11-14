@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/149/987
+CLIENT'S NAME Carly Conger
+ADDRESS 259 Columbia St. ,Nebraska
+DOB: 15 July 1979
+DATE OF REPORT 17 April 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Malaria
+PAST MEDICAL HISTORY
+       Insomnia
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Lisinoprin
+       Prilosec

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/100/987
+CLIENT'S NAME Eli Epling
+ADDRESS Huntley, IL 60142,Arizona
+DOB: 02 March 1985
+DATE OF REPORT 17 March 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Diabetis
+PAST MEDICAL HISTORY
+       Leukemia
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Epogen
+       Lisinoprin

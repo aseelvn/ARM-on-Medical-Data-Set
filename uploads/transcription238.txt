@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/230/987
+CLIENT'S NAME Sherril Schindler
+ADDRESS Hernando, MS 38632,Mississippi
+DOB: 17 May 1985
+DATE OF REPORT 22 July 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Leukemia
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Lisinoprin
+       Azithromycin

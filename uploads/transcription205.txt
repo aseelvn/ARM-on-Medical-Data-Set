@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/197/987
+CLIENT'S NAME Pauline Puga
+ADDRESS El Paso, TX 79930,Connecticut
+DOB: 02 February 1979
+DATE OF REPORT 02 January 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Diabetis
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Amoxicillin
+       Azithromycin

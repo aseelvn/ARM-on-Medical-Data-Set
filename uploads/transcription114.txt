@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/106/987
+CLIENT'S NAME Nyla Nunnery
+ADDRESS Beckley, WV 25801,Minnesota
+DOB: 22 December 2001
+DATE OF REPORT 32 May 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Diabetis
+PAST MEDICAL HISTORY
+       Malaria
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Lisinoprin
+       Nexium

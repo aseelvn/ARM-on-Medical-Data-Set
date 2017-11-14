@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/210/987
+CLIENT'S NAME Yuk Yunker
+ADDRESS 9785 Indian Spring St. ,New Hampshire
+DOB: 02 August 1994
+DATE OF REPORT 02 May 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Insomnia
+PAST MEDICAL HISTORY
+       Malaria
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Hydrocodone
+       Hydrocodone

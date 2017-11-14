@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/244/987
+CLIENT'S NAME Casimira Carman
+ADDRESS 667 Gartner Street ,California
+DOB: 17 July 1991
+DATE OF REPORT 16 March 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Leukemia
+PAST MEDICAL HISTORY
+       Chickenpox
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Azithromycin
+       Hidrochlorothiazide

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/253/987
+CLIENT'S NAME Blair Biondi
+ADDRESS 9870 Marsh Lane ,Wisconsin
+DOB: 02 June 1979
+DATE OF REPORT 22 August 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Insomnia
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Azithromycin
+       Nexium

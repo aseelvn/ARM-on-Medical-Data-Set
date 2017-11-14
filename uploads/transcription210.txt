@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/202/987
+CLIENT'S NAME Barabara Bjornstad
+ADDRESS Stillwater, MN 55082,New York
+DOB: 11 June 1999
+DATE OF REPORT 17 May 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Diabetis
+PAST MEDICAL HISTORY
+       Hypertension
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Amoxicillin
+       Hidrochlorothiazide

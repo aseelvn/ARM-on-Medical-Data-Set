@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/1/987
+CLIENT'S NAME Crista Charney
+ADDRESS 6 Hillcrest Drive ,Kansas
+DOB: 02 January 1979
+DATE OF REPORT 21 December 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Dysentery
+PAST MEDICAL HISTORY
+       Arthritis
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Epogen
+       Azithromycin

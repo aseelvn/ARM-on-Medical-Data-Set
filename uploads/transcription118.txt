@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/110/987
+CLIENT'S NAME Dorcas Desanto
+ADDRESS 54 South Pulaski Lane ,Pennsylvania
+DOB: 11 February 1999
+DATE OF REPORT 02 May 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Arthritis
+PAST MEDICAL HISTORY
+       Insomnia
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Paracetamol
+       Singulair

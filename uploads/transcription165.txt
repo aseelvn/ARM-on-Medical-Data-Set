@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/157/987
+CLIENT'S NAME Devorah Donald
+ADDRESS 701 Snake Hill St. ,Florida
+DOB: 19 December 1995
+DATE OF REPORT 02 January 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Typhoid
+PAST MEDICAL HISTORY
+       Leukemia
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Hidrochlorothiazide
+       Actos

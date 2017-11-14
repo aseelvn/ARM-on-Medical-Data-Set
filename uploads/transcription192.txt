@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/184/987
+CLIENT'S NAME Charlott Cogar
+ADDRESS 86 Westport Ave. ,Michigan
+DOB: 02 March 1983
+DATE OF REPORT 18 March 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Arthritis
+PAST MEDICAL HISTORY
+       Chickenpox
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Lipitor
+       Amoxicillin

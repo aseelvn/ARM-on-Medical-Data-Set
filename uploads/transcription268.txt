@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/260/987
+CLIENT'S NAME Clifton Cocco
+ADDRESS Plainview, NY 11803,Maryland
+DOB: 15 August 2001
+DATE OF REPORT 22 March 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Chickenpox
+PAST MEDICAL HISTORY
+       Malaria
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Amoxicillin
+       Hidrochlorothiazide

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/33/987
+CLIENT'S NAME Kendra Knouse
+ADDRESS Greensburg, PA 15601,Arizona
+DOB: 15 January 1994
+DATE OF REPORT 19 April 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Hypertension
+PAST MEDICAL HISTORY
+       Arthritis
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Prilosec
+       Singulair

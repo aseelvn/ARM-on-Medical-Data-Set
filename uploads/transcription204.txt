@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/196/987
+CLIENT'S NAME Ora Oyer
+ADDRESS 7496 Ivy Court ,Mississippi
+DOB: 16 August 1999
+DATE OF REPORT 16 April 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Typhoid
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Nexium
+       Paracetamol

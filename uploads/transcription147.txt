@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/139/987
+CLIENT'S NAME Cheree Covington
+ADDRESS Taylors, SC 29687,Missouri
+DOB: 17 January 1991
+DATE OF REPORT 02 June 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Chickenpox
+PAST MEDICAL HISTORY
+       Malaria
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Epogen
+       Hydrocodone

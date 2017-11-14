@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/124/987
+CLIENT'S NAME Austin Asher
+ADDRESS Mount Airy, MD 21771,Arizona
+DOB: 19 January 1983
+DATE OF REPORT 02 April 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Typhoid
+PAST MEDICAL HISTORY
+       Diabetis
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Amoxicillin
+       Epogen

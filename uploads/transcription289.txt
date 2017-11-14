@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/281/987
+CLIENT'S NAME Ruthe Rayo
+ADDRESS Mechanicsville, VA 23111,Oklahoma
+DOB: 17 November 1983
+DATE OF REPORT 02 April 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Malaria
+PAST MEDICAL HISTORY
+       Hypertension
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Hydrocodone
+       Amoxicillin

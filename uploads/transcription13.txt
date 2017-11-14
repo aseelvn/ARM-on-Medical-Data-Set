@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/5/987
+CLIENT'S NAME Sherril Schindler
+ADDRESS 9539 Silver Spear Lane ,California
+DOB: 02 July 1983
+DATE OF REPORT 32 January 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Dysentery
+PAST MEDICAL HISTORY
+       Typhoid
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Actos
+       Nexium

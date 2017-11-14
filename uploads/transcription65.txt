@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/57/987
+CLIENT'S NAME Anjanette Appell
+ADDRESS 65 Gulf St. ,Louisiana
+DOB: 02 November 1995
+DATE OF REPORT 16 May 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Arthritis
+PAST MEDICAL HISTORY
+       Malaria
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Lipitor
+       Amoxicillin

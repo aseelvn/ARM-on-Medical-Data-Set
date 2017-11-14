@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/174/987
+CLIENT'S NAME Margarite Mccaul
+ADDRESS 33 Spruce Lane ,Ohio
+DOB: 02 January 2001
+DATE OF REPORT 15 December 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Chickenpox
+PAST MEDICAL HISTORY
+       Malaria
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Lisinoprin
+       Prilosec

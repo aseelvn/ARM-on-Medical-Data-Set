@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/127/987
+CLIENT'S NAME Genevieve Gayman
+ADDRESS Midland, MI 48640,Maine
+DOB: 11 June 1983
+DATE OF REPORT 02 April 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Arthritis
+PAST MEDICAL HISTORY
+       Dysentery
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Amoxicillin
+       Azithromycin

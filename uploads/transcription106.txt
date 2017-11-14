@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/98/987
+CLIENT'S NAME Dot Dela
+ADDRESS 587 Aspen Street ,Tennessee
+DOB: 22 January 1983
+DATE OF REPORT 19 November 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Leukemia
+       Insomnia
+PAST MEDICAL HISTORY
+       Diabetis
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Prilosec
+       Singulair

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/279/987
+CLIENT'S NAME Sidney Swisher
+ADDRESS 104 Old Ocean Lane ,North Carolina
+DOB: 15 March 1990
+DATE OF REPORT 18 February 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Typhoid
+PAST MEDICAL HISTORY
+       Leukemia
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Nexium
+       Epogen

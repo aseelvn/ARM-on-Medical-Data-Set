@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/14/987
+CLIENT'S NAME Maurita Maney
+ADDRESS 23 Elizabeth Rd. ,Rhode Island
+DOB: 11 August 1991
+DATE OF REPORT 22 November 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Typhoid
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Nexium
+       Prilosec

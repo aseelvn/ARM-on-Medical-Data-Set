@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/46/987
+CLIENT'S NAME Sook Samet
+ADDRESS Minneapolis, MN 55406,Virginia
+DOB: 32 June 1990
+DATE OF REPORT 16 April 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Dysentery
+PAST MEDICAL HISTORY
+       Dysentery
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Nexium
+       Singulair

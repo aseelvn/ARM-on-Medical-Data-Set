@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/144/987
+CLIENT'S NAME Clarence Colpitts
+ADDRESS Minneapolis, MN 55406,Idaho
+DOB: 02 May 1995
+DATE OF REPORT 18 March 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Insomnia
+PAST MEDICAL HISTORY
+       Chickenpox
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Lipitor
+       Paracetamol

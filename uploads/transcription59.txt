@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/51/987
+CLIENT'S NAME Marci Mix
+ADDRESS 8464 Pennsylvania Street ,Minnesota
+DOB: 19 January 1999
+DATE OF REPORT 32 November 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Malaria
+PAST MEDICAL HISTORY
+       Alzheimers
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Paracetamol
+       Lisinoprin

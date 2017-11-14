@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/272/987
+CLIENT'S NAME Warner Wingham
+ADDRESS 631 South Greenview St. ,Maine
+DOB: 02 January 1995
+DATE OF REPORT 22 February 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Arthritis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Azithromycin
+       Lipitor

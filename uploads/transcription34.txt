@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/26/987
+CLIENT'S NAME Elizabet Eatman
+ADDRESS 92 North Cedarwood Ave. ,Connecticut
+DOB: 22 January 1985
+DATE OF REPORT 02 March 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Alzheimers
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Nexium
+       Amoxicillin

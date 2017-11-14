@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/116/987
+CLIENT'S NAME Amado Alba
+ADDRESS Kent, OH 44240,Vermont
+DOB: 11 February 1994
+DATE OF REPORT 02 April 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Lisinoprin
+       Prilosec

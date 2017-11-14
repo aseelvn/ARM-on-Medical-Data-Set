@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/111/987
+CLIENT'S NAME Sook Samet
+ADDRESS 587 Aspen Street ,Massachusetts
+DOB: 19 April 1985
+DATE OF REPORT 32 February 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Leukemia
+PAST MEDICAL HISTORY
+       Insomnia
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Epogen
+       Lisinoprin

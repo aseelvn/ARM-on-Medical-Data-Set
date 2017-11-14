@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/257/987
+CLIENT'S NAME Edmundo Ecton
+ADDRESS 582 North Penn St. ,Wyoming
+DOB: 11 December 1995
+DATE OF REPORT 32 June 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Hypertension
+PAST MEDICAL HISTORY
+       Typhoid
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Prilosec
+       Singulair

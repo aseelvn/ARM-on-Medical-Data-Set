@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/70/987
+CLIENT'S NAME Johnie Jim
+ADDRESS Sunnyside, NY 11104,Vermont
+DOB: 32 July 1991
+DATE OF REPORT 32 July 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Hypertension
+PAST MEDICAL HISTORY
+       Diabetis
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Amoxicillin
+       Singulair

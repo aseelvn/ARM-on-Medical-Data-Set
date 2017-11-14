@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/241/987
+CLIENT'S NAME Eboni Elrod
+ADDRESS Jackson Heights, NY 11372,New Hampshire
+DOB: 21 November 1983
+DATE OF REPORT 18 July 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Chickenpox
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Prilosec
+       Paracetamol

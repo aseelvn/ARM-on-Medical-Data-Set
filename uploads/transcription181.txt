@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/173/987
+CLIENT'S NAME Norberto Neugebauer
+ADDRESS 7306 Birchpond Lane ,New York
+DOB: 15 May 1991
+DATE OF REPORT 32 May 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Malaria
+PAST MEDICAL HISTORY
+       Arthritis
+       Chickenpox
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Nexium
+       Hydrocodone

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/240/987
+CLIENT'S NAME Simon Stearman
+ADDRESS Lititz, PA 17543,Louisiana
+DOB: 20 November 1991
+DATE OF REPORT 21 April 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Hypertension
+PAST MEDICAL HISTORY
+       Arthritis
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Prilosec
+       Azithromycin

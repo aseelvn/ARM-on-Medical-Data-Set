@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/32/987
+CLIENT'S NAME Andreas Angers
+ADDRESS Lake Zurich, IL 60047,Illinois
+DOB: 21 August 1979
+DATE OF REPORT 32 November 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Malaria
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hidrochlorothiazide
+       Amoxicillin
+       Nexium

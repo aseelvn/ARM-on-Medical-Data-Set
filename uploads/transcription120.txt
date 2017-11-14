@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/112/987
+CLIENT'S NAME Kathryn Klingensmith
+ADDRESS 587 Aspen Street ,Alabama
+DOB: 22 February 2001
+DATE OF REPORT 16 February 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Insomnia
+PAST MEDICAL HISTORY
+       Hypertension
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Singulair
+       Hidrochlorothiazide

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/275/987
+CLIENT'S NAME Maurita Maney
+ADDRESS 76 Chestnut St. ,Maryland
+DOB: 32 March 2001
+DATE OF REPORT 11 January 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Alzheimers
+       Arthritis
+PAST MEDICAL HISTORY
+       Dysentery
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Paracetamol
+       Prilosec

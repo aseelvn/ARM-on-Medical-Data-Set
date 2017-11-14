@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/79/987
+CLIENT'S NAME Harry Horne
+ADDRESS Lanham, MD 20706,Utah
+DOB: 32 November 1983
+DATE OF REPORT 15 August 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Alzheimers
+PAST MEDICAL HISTORY
+       Insomnia
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Lipitor
+       Prilosec

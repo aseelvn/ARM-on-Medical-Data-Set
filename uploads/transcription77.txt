@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/69/987
+CLIENT'S NAME Alejandrina Athey
+ADDRESS 606 Goldfield Street ,New York
+DOB: 16 November 1990
+DATE OF REPORT 17 June 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Dysentery
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Prilosec
+       Epogen

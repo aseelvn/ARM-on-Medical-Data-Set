@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/104/987
+CLIENT'S NAME Erlinda Egger
+ADDRESS 463 Annadale Drive ,Massachusetts
+DOB: 17 February 1990
+DATE OF REPORT 16 March 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Malaria
+PAST MEDICAL HISTORY
+       Hypertension
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Actos
+       Hydrocodone
+       Epogen

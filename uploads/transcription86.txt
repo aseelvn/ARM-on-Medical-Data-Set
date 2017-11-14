@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/78/987
+CLIENT'S NAME Emery Elmore
+ADDRESS 7745 Ann St. ,Connecticut
+DOB: 32 March 1979
+DATE OF REPORT 20 August 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Insomnia
+PAST MEDICAL HISTORY
+       Diabetis
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Paracetamol
+       Hydrocodone

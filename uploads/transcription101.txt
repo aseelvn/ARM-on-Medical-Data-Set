@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/93/987
+CLIENT'S NAME Junie Jenkinson
+ADDRESS Decatur, GA 30030,North Carolina
+DOB: 22 July 1985
+DATE OF REPORT 32 June 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Leukemia
+PAST MEDICAL HISTORY
+       Hypertension
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Lipitor
+       Epogen

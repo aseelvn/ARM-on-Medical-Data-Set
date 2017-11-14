@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/178/987
+CLIENT'S NAME Kathryn Klingensmith
+ADDRESS 7211 Virginia Ave. ,Mississippi
+DOB: 20 November 1985
+DATE OF REPORT 16 March 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Arthritis
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Lipitor
+       Hidrochlorothiazide

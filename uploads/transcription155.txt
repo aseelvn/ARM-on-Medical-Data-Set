@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/147/987
+CLIENT'S NAME Amado Alba
+ADDRESS 29 Clay Street ,Water bodies
+DOB: 18 April 2001
+DATE OF REPORT 02 March 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Diabetis
+PAST MEDICAL HISTORY
+       Diabetis
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Actos
+       Lisinoprin

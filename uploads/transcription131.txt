@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/123/987
+CLIENT'S NAME Lottie Leija
+ADDRESS Cranford, NJ 07016,Kansas
+DOB: 19 June 1994
+DATE OF REPORT 02 February 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Leukemia
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Prilosec
+       Azithromycin

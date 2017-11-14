@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/203/987
+CLIENT'S NAME Barabara Bjornstad
+ADDRESS 9280  Hanover Rd. ,New York
+DOB: 11 January 1985
+DATE OF REPORT 22 May 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Leukemia
+PAST MEDICAL HISTORY
+       Dysentery
+       Dysentery
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Lisinoprin
+       Epogen

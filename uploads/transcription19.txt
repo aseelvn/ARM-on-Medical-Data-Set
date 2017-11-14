@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/11/987
+CLIENT'S NAME Eboni Elrod
+ADDRESS Mundelein, IL 60060,New Hampshire
+DOB: 16 January 1990
+DATE OF REPORT 19 July 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Alzheimers
+PAST MEDICAL HISTORY
+       Malaria
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Azithromycin
+       Singulair

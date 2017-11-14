@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/185/987
+CLIENT'S NAME Veronique Vollmer
+ADDRESS 741 Buttonwood Drive ,Pennsylvania
+DOB: 15 January 1994
+DATE OF REPORT 16 March 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Leukemia
+PAST MEDICAL HISTORY
+       Typhoid
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Azithromycin
+       Hidrochlorothiazide

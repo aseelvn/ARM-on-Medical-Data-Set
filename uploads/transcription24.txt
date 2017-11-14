@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/16/987
+CLIENT'S NAME Karl Kleinman
+ADDRESS 104 Old Ocean Lane ,New York
+DOB: 21 February 2001
+DATE OF REPORT 02 August 2001
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Typhoid
+PAST MEDICAL HISTORY
+       Arthritis
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Paracetamol
+       Epogen

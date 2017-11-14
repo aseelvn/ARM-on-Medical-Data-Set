@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/156/987
+CLIENT'S NAME Leonie Leep
+ADDRESS 9241 Strawberry Lane ,Ohio
+DOB: 22 January 1994
+DATE OF REPORT 22 June 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Arthritis
+PAST MEDICAL HISTORY
+       Dysentery
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Amoxicillin
+       Azithromycin

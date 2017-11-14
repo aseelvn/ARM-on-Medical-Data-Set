@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/0/987
+CLIENT'S NAME Wiley Warne
+ADDRESS 7306 Birchpond Lane ,Tennessee
+DOB: 20 April 1979
+DATE OF REPORT 21 March 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Insomnia
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Paracetamol
+       Hidrochlorothiazide

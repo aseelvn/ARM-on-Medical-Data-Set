@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/115/987
+CLIENT'S NAME Karey Kinsella
+ADDRESS 73 Mill Pond Rd. ,Mississippi
+DOB: 17 August 1990
+DATE OF REPORT 17 June 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Typhoid
+PAST MEDICAL HISTORY
+       Malaria
+       Malaria
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Hydrocodone
+       Epogen
+       Prilosec

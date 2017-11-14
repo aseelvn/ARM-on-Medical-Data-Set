@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/8/987
+CLIENT'S NAME Margarite Mccaul
+ADDRESS Vicksburg, MS 39180,North Carolina
+DOB: 02 November 1990
+DATE OF REPORT 15 March 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Insomnia
+PAST MEDICAL HISTORY
+       Insomnia
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Actos
+       Nexium

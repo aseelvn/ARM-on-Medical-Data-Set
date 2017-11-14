@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/3/987
+CLIENT'S NAME Lavina Lopresti
+ADDRESS Peabody, MA 01960,Massachusetts
+DOB: 18 November 1990
+DATE OF REPORT 02 January 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Typhoid
+       Alzheimers
+PAST MEDICAL HISTORY
+       Tuberculosis
+       Hypertension
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Azithromycin
+       Paracetamol

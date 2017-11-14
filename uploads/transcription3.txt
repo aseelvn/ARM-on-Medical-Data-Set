@@ -1,0 +1,26 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/453/387
+INSTRUCTIONS FROM Joe Bloggs Solicitors
+CLIENT'S NAME  Evans
+ADDRESS   Deca Street, Mirland
+DOB : 01 March 1968
+
+
+DATE OF REPORT  15 April 2010
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION  Unemployed
+
+
+CURRENT MEDICAL CONDITION
+	Huntington
+	Hernia
+	Asthma
+
+PAST MEDICAL HISTORY
+	Hemophilia
+	Infertility
+
+PRESENT MEDICATIONS 
+	Paracetamol

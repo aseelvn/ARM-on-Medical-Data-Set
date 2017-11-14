@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/254/987
+CLIENT'S NAME Dee Delaune
+ADDRESS Park Forest, IL 60466,Minnesota
+DOB: 02 July 1991
+DATE OF REPORT 17 November 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Hypertension
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Hydrocodone
+       Hidrochlorothiazide

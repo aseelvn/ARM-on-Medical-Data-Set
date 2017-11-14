@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/258/987
+CLIENT'S NAME Amee Akbar
+ADDRESS 6 Hillcrest Drive ,Wisconsin
+DOB: 19 January 1994
+DATE OF REPORT 15 November 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Leukemia
+PAST MEDICAL HISTORY
+       Hypertension
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Amoxicillin
+       Azithromycin

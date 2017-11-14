@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/55/987
+CLIENT'S NAME Cassie Caminiti
+ADDRESS 10 Greenview Street ,Maryland
+DOB: 20 May 1990
+DATE OF REPORT 20 November 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Alzheimers
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Actos
+       Azithromycin

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/102/987
+CLIENT'S NAME Amina Aylward
+ADDRESS 639 Hilltop  ,Wisconsin
+DOB: 17 August 1990
+DATE OF REPORT 18 November 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Diarrhoea
+PAST MEDICAL HISTORY
+       Insomnia
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Epogen
+       Nexium
+       Singulair

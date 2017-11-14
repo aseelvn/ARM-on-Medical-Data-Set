@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/233/987
+CLIENT'S NAME Julieta Jehle
+ADDRESS 9928 Old Edgewater Ave. ,Alabama
+DOB: 19 March 1990
+DATE OF REPORT 22 November 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Malaria
+PAST MEDICAL HISTORY
+       Hypertension
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Hidrochlorothiazide
+       Paracetamol

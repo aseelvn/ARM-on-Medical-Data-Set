@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/117/987
+CLIENT'S NAME Jina Jenner
+ADDRESS 281 Mill Pond Street ,Alabama
+DOB: 20 November 1995
+DATE OF REPORT 20 December 1983
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Diabetis
+       Alzheimers
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Paracetamol
+       Azithromycin

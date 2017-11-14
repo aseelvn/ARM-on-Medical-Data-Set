@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/2/987
+CLIENT'S NAME Eve Espino
+ADDRESS Carol Stream, IL 60188,Oregon
+DOB: 02 April 1979
+DATE OF REPORT 22 July 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Tuberculosis
+PAST MEDICAL HISTORY
+       Arthritis
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Hydrocodone
+       Paracetamol

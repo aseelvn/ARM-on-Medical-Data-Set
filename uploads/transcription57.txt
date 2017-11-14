@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/49/987
+CLIENT'S NAME Yvette Youngman
+ADDRESS 9 S. Evergreen Drive ,New York
+DOB: 22 July 1991
+DATE OF REPORT 20 May 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Hypertension
+PAST MEDICAL HISTORY
+       Hypertension
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Prilosec
+       Nexium

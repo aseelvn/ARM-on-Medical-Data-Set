@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/34/987
+CLIENT'S NAME Willy Whittington
+ADDRESS 639 Hilltop  ,Kansas
+DOB: 20 August 2001
+DATE OF REPORT 32 November 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Diabetis
+       Arthritis
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Typhoid
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Epogen
+       Lisinoprin

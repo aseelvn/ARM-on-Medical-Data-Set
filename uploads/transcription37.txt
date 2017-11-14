@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/29/987
+CLIENT'S NAME Carolina Creegan
+ADDRESS Nashville, TN 37205,Utah
+DOB: 18 July 1990
+DATE OF REPORT 16 January 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Diabetis
+PAST MEDICAL HISTORY
+       Arthritis
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lipitor
+       Lipitor
+       Prilosec

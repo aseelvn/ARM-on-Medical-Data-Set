@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/216/987
+CLIENT'S NAME Ivan Ingham
+ADDRESS 9115 Crescent St. ,Illinois
+DOB: 20 February 2001
+DATE OF REPORT 21 July 1985
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Diarrhoea
+       Diabetis
+PAST MEDICAL HISTORY
+       Dysentery
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Nexium
+       Prilosec

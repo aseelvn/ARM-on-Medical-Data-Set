@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/130/987
+CLIENT'S NAME Eboni Elrod
+ADDRESS 857 King St. ,Connecticut
+DOB: 21 May 1979
+DATE OF REPORT 22 February 1979
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Chickenpox
+PAST MEDICAL HISTORY
+       Malaria
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Singulair
+       Actos
+       Hydrocodone

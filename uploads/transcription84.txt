@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/76/987
+CLIENT'S NAME Francine Fett
+ADDRESS Sunnyside, NY 11104,Vermont
+DOB: 16 November 1999
+DATE OF REPORT 22 May 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Dysentery
+       Chickenpox
+PAST MEDICAL HISTORY
+       Malaria
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Prilosec
+       Hydrocodone
+       Epogen

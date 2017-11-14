@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/290/987
+CLIENT'S NAME Aubrey Alward
+ADDRESS 542 Oxford Street ,Massachusetts
+DOB: 22 April 1983
+DATE OF REPORT 16 November 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Diabetis
+PAST MEDICAL HISTORY
+       Malaria
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Azithromycin
+       Epogen
+       Hydrocodone

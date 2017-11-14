@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/270/987
+CLIENT'S NAME Dillon Dorgan
+ADDRESS Midland, MI 48640,Political units
+DOB: 17 February 1994
+DATE OF REPORT 02 May 1999
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Hypertension
+PAST MEDICAL HISTORY
+       Malaria
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Paracetamol
+       Prilosec
+       Hydrocodone

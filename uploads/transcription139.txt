@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/131/987
+CLIENT'S NAME Eve Espino
+ADDRESS 7666 George Ave. ,Washington
+DOB: 02 February 1999
+DATE OF REPORT 21 March 1995
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Tuberculosis
+       Typhoid
+PAST MEDICAL HISTORY
+       Diarrhoea
+       Insomnia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Hidrochlorothiazide
+       Actos

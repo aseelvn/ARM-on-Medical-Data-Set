@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/211/987
+CLIENT'S NAME Melia Mowrer
+ADDRESS Waterford, MI 48329,New York
+DOB: 02 December 1985
+DATE OF REPORT 16 June 1994
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Hypertension
+       Arthritis
+PAST MEDICAL HISTORY
+       Dysentery
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Actos
+       Prilosec

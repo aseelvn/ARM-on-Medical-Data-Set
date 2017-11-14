@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/133/987
+CLIENT'S NAME Dell Drinkard
+ADDRESS 606 Goldfield Street ,Pennsylvania
+DOB: 02 December 1990
+DATE OF REPORT 02 June 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Insomnia
+       Arthritis
+PAST MEDICAL HISTORY
+       Chickenpox
+       Diarrhoea
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Amoxicillin
+       Hidrochlorothiazide
+       Lisinoprin

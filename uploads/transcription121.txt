@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/113/987
+CLIENT'S NAME Ivan Ingham
+ADDRESS 81 Manor Station  ,Political units
+DOB: 02 February 1994
+DATE OF REPORT 16 August 1990
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Arthritis
+       Malaria
+PAST MEDICAL HISTORY
+       Arthritis
+       Diabetis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Nexium
+       Hidrochlorothiazide
+       Epogen

@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/209/987
+CLIENT'S NAME Mirna Marasco
+ADDRESS 9 S. Evergreen Drive ,Connecticut
+DOB: 32 May 1990
+DATE OF REPORT 17 February 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Employed
+
+CURRENT MEDICAL CONDITION
+       Malaria
+       Insomnia
+PAST MEDICAL HISTORY
+       Hypertension
+       Leukemia
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Paracetamol
+       Nexium

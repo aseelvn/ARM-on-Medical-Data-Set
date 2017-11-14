@@ -1,0 +1,23 @@
+MEDICAL REPORT
+
+SOLICITOR'S REF ACC/10/987
+CLIENT'S NAME Doyle Delcastillo
+ADDRESS 9928 Old Edgewater Ave. ,Alabama
+DOB: 17 June 1979
+DATE OF REPORT 02 April 1991
+
+REVIEW OF NOTES None
+IDENTIFICATION  None
+OCCUPATION Unemployed
+
+CURRENT MEDICAL CONDITION
+       Chickenpox
+       Malaria
+PAST MEDICAL HISTORY
+       Leukemia
+       Tuberculosis
+CURRENT SYMPTOMS
+PRESENT MEDICATIONS
+       Lisinoprin
+       Lisinoprin
+       Singulair
